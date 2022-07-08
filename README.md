@@ -5,7 +5,7 @@ A Mindspore version of Mask R-CNN, trained on GPU.
 
 Mask R-CNN extends Faster R-CNN by adding a branch for predicting segmentation masks on each Region of Interest (RoI), in parallel with the existing branch for classification and bounding box regression. The mask branch is a small FCN applied to each RoI, predicting a segmentation mask in a pixel-topixel manner. Mask R-CNN is simple to implement and train given the Faster R-CNN framework, which facilitates a wide range of flexible architecture designs. Additionally, the mask branch only adds a small computational overhead, enabling a fast system and rapid experimentation. 
 
-![framework](./images/framework.png)
+<img width="509" alt="Screen Shot 2022-06-24 at 18 01 42" src="https://user-images.githubusercontent.com/74909571/177951174-1b44b045-fd2f-4cf4-b9d2-6c5861a29f23.png">
 
 Without bells and whistles, Mask R-CNN surpasses all previous state-of-the-art single-model results on the COCO instance segmentation task, including the heavilyengineered entries from the 2016 competition winner in 2018.
 
