@@ -10,7 +10,7 @@ Mask R-CNN extends Faster R-CNN by adding a branch for predicting segmentation m
 Without bells and whistles, Mask R-CNN surpasses all previous state-of-the-art single-model results on the COCO instance segmentation task, including the heavilyengineered entries from the 2016 competition winner in 2018.
 
 ## Model Features
-1. Mask R-CNN adds a branch of Mask prediction on the basis of Faster R-CNN\
+1. Mask R-CNN adds a branch of Mask prediction on the basis of Faster R-CNN
 2. Mask R-CNN proposes ROI ALign.
 
 ## Pretrained Model
@@ -235,7 +235,7 @@ python infer.py
 <img width="717" alt="Screen Shot 2022-07-08 at 16 39 50" src="https://user-images.githubusercontent.com/74909571/177953231-5e15ad3b-fe23-4ff3-8002-f146482584eb.png">
 
 ## Notes
-1. You can fine-tune the model and change checkpoint in config.py when change the backbone.\
+1. You can fine-tune the model and change checkpoint in config.py when change the backbone.
 2. You can create your own dataset following dataset.py, and change dataset root in config.py.
 
 ## Reference
