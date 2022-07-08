@@ -20,6 +20,8 @@ Without bells and whistles, Mask R-CNN surpasses all previous state-of-the-art s
 | maskrcnn_coco2017_bbox37.4_segm32.9 | coco2017 | 0.374 | 0.329 | checkpoint/maskrcnn_coco2017_acc32.9.ckpt |
 | maskrcnnmobilenetv1_coco2017_bbox22.2_segm15.8 | coco2017 | 0.222 | 0.158 | checkpoint/maskrcnnmobilenetv1_coco2017_bbox24.00_segm21.5.ckpt |
 
+Please download the checkpoints [here](https://drive.google.com/file/d/1zRoq9vJqkZJXjyw7Tqg-3CnCubt9YCHi/view?usp=sharing). And you should save it in the checkpoint folder.
+
 ## Training Parameter Description
 
 Here, we list some important parametes for training. Moreover, you can check the configuration files for details.
