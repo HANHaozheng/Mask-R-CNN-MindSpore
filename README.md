@@ -235,8 +235,6 @@ At last, you can use your own images to test the trained model. Put your image i
 python infer.py
 ```
 <img width="717" alt="Screen Shot 2022-07-08 at 16 39 50" src="https://user-images.githubusercontent.com/74909571/177953231-5e15ad3b-fe23-4ff3-8002-f146482584eb.png">
-![output1](https://user-images.githubusercontent.com/74909571/178096158-c4cfb4ea-e7dd-42df-bd04-2e1eb829da8c.png)
-![output3](https://user-images.githubusercontent.com/74909571/178096163-01e8c865-f995-4c0a-a7d5-8a74ae722265.png)
 
 
 ## Notes
